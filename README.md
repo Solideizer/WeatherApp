@@ -1,16 +1,16 @@
-# flutter_app
+# WeatherApp
 
-A new Flutter application.
+A Weather application made with Flutter which uses Open Weather API for weather information.
 
-## Getting Started
+## **Screenshots from WeatherApp** 
+<p align="center">
+<img src="https://github.com/Solideizer/WeatherApp/blob/master/screenshots/Screenshot_1602696763.png" width="310">
+<img src="https://github.com/Solideizer/WeatherApp/blob/master/screenshots/Screenshot_1602696802.png" width="310">
+ </p>
+ <p align="center">
+<img src="https://github.com/Solideizer/WeatherApp/blob/master/screenshots/Screenshot_1602696806.png" width="310">
+<img src="https://github.com/Solideizer/WeatherApp/blob/master/screenshots/Screenshot_1602696834.png" width="310">
 
-This project is a starting point for a Flutter application.
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
